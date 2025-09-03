@@ -12,6 +12,7 @@ Even though it’s a beginner-level project, it helped me learn practical steps 
 - Visualized trends and sentiment results with Python libraries.  
 
 ---
+![Sentiment Distribution](images/sample.png)
 
 ## 📂 Repository Structure
 - `analysis.ipynb` → Jupyter Notebook with full code.  
