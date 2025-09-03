@@ -61,5 +61,5 @@ Even though it’s a beginner-level project, it helped me learn practical steps 
 
 ---
 
-👤 **Author**: [Your Name]  
-📅 **Created**: [Year you made it]  
+👤 **Author**: [Anshul Mankar]  
+📅 **Created**: [26-06-2024]  
