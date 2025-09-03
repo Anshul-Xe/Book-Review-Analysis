@@ -42,7 +42,7 @@ Even though it’s a beginner-level project, it helped me learn practical steps 
 ---
 
 ## 📑 Dataset
-- Source: [Add dataset link here if public — e.g., Kaggle Goodreads or Amazon reviews dataset]  
+- Source: [[https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)]  
 - If dataset is too large or restricted, only references are provided.  
 
 ---
